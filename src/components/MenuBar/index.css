@@ -1,0 +1,35 @@
+.menubar-icon {
+  font-size: 20px;
+  margin: 5px;
+  margin-right: 20px;
+  margin-left: 10px;
+}
+
+.active-tab-light {
+  background-color: #f9f9f9;
+}
+
+.active-tab-dark {
+  background-color: #373532;
+}
+
+.active-icon {
+  color: red;
+}
+
+.contact-us {
+  font-weight: bold;
+}
+
+.menubar-bottom-container {
+  padding: 15px;
+  padding-bottom: 0px;
+}
+
+.contact-icon-containers {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 60%;
+}
